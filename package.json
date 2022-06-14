@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Koki-japan-fukui/Typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/Koki-japan-fukui/Typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/Koki-japan-fukui/Typescript-for-javascript-developers#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
 }
